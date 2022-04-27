@@ -1,5 +1,5 @@
 {
-  "name": "device-motion",
+  "name": "esmbuild",
   "version": "0.0.1",
   "main": "src/index.tsx",
   "scripts": {
